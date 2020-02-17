@@ -1,3 +1,4 @@
+
 # DSProjects
 
 Write-A-Data-Science-Blog-Post
@@ -11,3 +12,10 @@ For this project, I was interested in the BlackFriday Dataset as a shopper who l
 File Descriptions 
 Attaching the file which is used for analysis- I have used Python 2 as this is what I have installed in my PC. 
 It also includes the results of the analysis as well. 
+
+File Descriptions 
+The notebook available here showcases work related to the above questions.
+Results
+Main findings of the code is also attached.
+Licensing, Authors, Acknowledgements
+I got the dataset from Kaggle 
