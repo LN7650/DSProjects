@@ -1,4 +1,24 @@
 
+Analysis of BlackFriday Data Set! 
+Introduction
+Black Friday is an amazing shopping season which has always amused me ever since i came to US. I have been curios about seeing mostly women in cloth store and men in electronics store.
+I'm going to perform some exploration on Black Friday Dataset From Kaggle. The task or questions I will target for as below: 
+Question 1: Which User spent most during black Friday, list the top 30 spending users 
+Question 2: How are these users distributed based on their Gender and age ? Question 3: Which products are most popular during Black Friday, list the top 20 
+Question 4: Are married couple spending more or less ?
+First I imported necessary libraries for my analysis. I am using the Blackfriday dataset which I got from Kaggle for the analysis.
+The dataset that I use includes 550,000 observations about Black Friday, which are made in a retail store.
+For my question 1, I did analysis and data cleanup and plotted the top 30 users: Using the plot i could make out who shopped the most
+Plot of Top 30 users who shopped for the blackFriday. For my question 2, I was curious to know what age and gender shopped the maximum.
+The above plot clearly showed the age group which shopped the most. and yes its youngster group [26–35].
+I wanted to see what gender is into shopping the most as well!
+Graph with age and Gender plottedThis learning showed me Men shopped more than women!
+For my question 3- I did an analysis and plotted the product which got sold the most.
+For my question 4 - i checked if married couples shopped more than unmarried
+Married vs UmmarriedConclusion
+From this analysis i am showing the company, what products should they carry most for the upcoming years so that they can get more profit!
+Acknowledgments
+Thanks to Kaggle for providing the dataset!
 # DSProjects
 
 Write-A-Data-Science-Blog-Post
