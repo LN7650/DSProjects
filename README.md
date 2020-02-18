@@ -1,4 +1,5 @@
 
+![Image](Black+Friday.jpg)
 **Analysis of BlackFriday Data Set!**
 
 Introduction
@@ -17,14 +18,22 @@ The dataset that I use includes 550,000 observations about Black Friday, which a
 For my question 1, I did analysis and data cleanup and plotted the top 30 users: Using the plot i could make out who shopped the most
 Plot of Top 30 users who shopped for the blackFriday. 
 
+![Image1](image1.png)
+
 For my question 2, I was curious to know what age and gender shopped the maximum.
+![Image2](image2.png)
 The above plot clearly showed the age group which shopped the most. and yes its youngster group [26–35].
 I wanted to see what gender is into shopping the most as well!
 Graph with age and Gender plottedThis learning showed me Men shopped more than women!
 
+![Image3](image3.png)
+
 For my question 3- I did an analysis and plotted the product which got sold the most.
+![Image4](image4.png)
 
 For my question 4 - i checked if married couples shopped more than unmarried
+
+![Image5](image5.png)
 
 Married vs UmmarriedConclusion
 From this analysis i am showing the company, what products should they carry most for the upcoming years so that they can get more profit!
